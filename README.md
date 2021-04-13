@@ -1,6 +1,6 @@
-NCF Machine Learning Final Project - Art Classification using NN and Random Forest in R
+# NCF Machine Learning Final Project - Art Classification using NN and Random Forest in R
 
-Project Proposal:
+### Project Proposal:
 
 Pick an interesting data set.
 https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving?select=dataset

@@ -1,4 +1,4 @@
-# NCF Machine Learning Final Project - Art Classification using NN and Random Forest in R
+# NCF Machine Learning Final Project - Art Classification using NN and SVM
 
 ### Project Proposal:
 
